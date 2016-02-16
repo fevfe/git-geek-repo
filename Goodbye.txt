@@ -1,4 +1,3 @@
 print('Goodby world')
 print('Goodby')
 print("Goodbye everybody")
-12345
